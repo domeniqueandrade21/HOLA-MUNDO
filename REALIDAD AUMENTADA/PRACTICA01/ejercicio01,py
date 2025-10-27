@@ -1,0 +1,3 @@
+persona = {"nombre": "Ana", "edad": 25}
+del persona["edad"]
+print(persona)
